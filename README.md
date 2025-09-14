@@ -51,7 +51,6 @@ A modern, responsive personal portfolio website showcasing projects, services, s
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 - **Font Awesome** for icons
 - **Google Fonts** (Open Sans)
 - Normalize.css for CSS resets
